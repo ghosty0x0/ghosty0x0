@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.tiktok.com/@the_supreme_g3ntl3man" target="blank"><img align="center" src="https://www.logo.wine/a/logo/TikTok/TikTok-Logo.wine.svg" alt="the_supreme_g3nt3lman" height="30" width="40" /></a>
 <a href="https://discord.gg/the_supreme_g3nt3lman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="the_supreme_g3nt3lman" height="30" width="40" /></a>
-<a href="https://www.chess.com/member/brian_moser_dexter target="blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" alt="the_supreme_g3nt3lman" height="30" width="40" /></a>
+<a href="https://www.chess.com/member/brian_moser_dexter" target="blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" alt="the_supreme_g3nt3lman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
