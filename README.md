@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm The_Supreme_g3nt3lman</h1>
+<h1 align="center">Hi 👋, I'm The_Supreme_g3ntl3man</h1>
 <h3 align="center">Hello friend. ...</h3>
 
 - 🌱 I’m currently learning **Python**
