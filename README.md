@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media !:</h3>
 <p align="left">
 <a href="https://www.tiktok.com/@the_supreme_g3ntl3man" target="blank"><img align="center" src="https://www.logo.wine/a/logo/TikTok/TikTok-Logo.wine.svg" alt="the_supreme_g3nt3lman" height="30" width="40" /></a>
 <a href="https://discord.gg/the_supreme_g3nt3lman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="the_supreme_g3nt3lman" height="30" width="40" /></a>
