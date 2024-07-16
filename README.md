@@ -16,3 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-supreme-g3ntl3man&show_icons=true&locale=en&layout=compact" alt="the-supreme-g3ntl3man"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-suprethe-supreme-g3ntl3man&label=Profile%20views&color=0e75b6&style=flat" alt="the-supreme-g3ntl3man" /> </p>
+<p align='left'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="C#" /> </p>
